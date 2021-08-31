@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.nav-bar {
+    font-family: "Dancing Script", cursive;
+}
+
+.top-banner {
+  width: 100%;
+  height: 30rem;
+  background-color: #5e454b;
+}
+
+.logo-text {
+    font-family: "Noto Sans JP", sans-serif;
+    text-align: center;
+    padding-top: 14rem;
+}
